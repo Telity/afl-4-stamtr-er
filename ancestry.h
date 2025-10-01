@@ -1,6 +1,6 @@
 #ifndef AFL_3_ANCESTRY_ANCESTRY_H
 #define AFL_3_ANCESTRY_ANCESTRY_H
-
+#include <stdbool.h>
 struct person_t {
     char *first_name;
     char *last_name;
